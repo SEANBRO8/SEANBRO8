@@ -57,11 +57,14 @@
 
 <br/>
 
-#
-<details>
+<details> 
 <summary><h3>📊 Stats </h3></summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUANGBRO888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
+
+
 <details>
 <summary><h3>🧑🏻‍💻 GEZI's Coding Journey</h3></summary>
   
