@@ -46,6 +46,7 @@
   <img alt="Jenkins" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
   <img alt="GitLab" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"/>
   <img alt="Amazon Web Services" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Pytest" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -53,6 +54,12 @@
     <img alt="Python" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img alt="Pandas" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     <img alt="TensorFlow" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"/>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <span>📱 Mobile App: </span>
+    <img alt="Swift" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+    <img alt="Xcode" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 </div>
 
 <br/>
