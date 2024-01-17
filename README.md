@@ -9,6 +9,8 @@
 
 🧑🏻‍💻 Over 2 years programming experience
 
+💼 Actively seeking for SDE internship during 2024 Summer / Fall, and 2025 Spring
+
 📮 Email: seandengswe@outlook.com
 
 ---
@@ -53,13 +55,16 @@
     <img alt="TensorFlow" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"/>
 </div>
 
----
+<br/>
 
-### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUANGBRO888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 <details>
- <summary><h3>👨‍💻 GEZI's Coding Journey</h3></summary>
+<summary><h3>📊 Stats </h3></summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUANGBRO888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+<details>
+<summary><h3>🧑🏻‍💻 GEZI's Coding Journey</h3></summary>
+  
 My adventure into the world of coding began in early 2022, a leap from my established career as a professional accountant at a renowned accounting firm. Throughout my years in accounting, I encountered a significant challenge: the software tools available to accountants were far from user-friendly, leading to inefficiency and frustration. This realization sparked a desire within me to delve into software engineering, with the aim of revolutionizing the accounting field through technology.
 
 I embarked on this journey by teaching myself programming languages such as Java and C++. After about six months of dedicated self-study, an opportunity arose that would change my trajectory: I secured an internship as a Software Engineer at XPeng, a leading electric vehicle company, in their Autonomous Driving Center. This role marked my first foray into engineering, and it wasn't just about writing code; it was about contributing to advancements that could enhance lives and propel humanity forward.
@@ -68,3 +73,4 @@ During my internship, I excelled in my responsibilities, finding that each line 
 
 Looking ahead, I am committed to marrying my expertise in accounting with my newfound passion for software engineering. My goal is to create solutions that bring convenience and innovation to the financial domain, staying true to my original vision of improving the work lives of accountants through better software. This journey is just the beginning, and I am excited to see where this path of blending finance and technology will lead me.
 
+</details>
