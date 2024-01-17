@@ -1,4 +1,4 @@
-# 
+![banner](img/banner.png)
 # 🧑🏻‍💼 GEZIPRO
 
 **`Digital Craftsman (Developer/CPA/ACCA)`**
@@ -48,10 +48,8 @@
 <br />
 
 ### 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUANGBRO888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GEZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuangbro888&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 #
 <details>
  <summary><h3>👨‍💻 GEZI's Coding Journey</h3></summary>
