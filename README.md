@@ -66,7 +66,7 @@
 <details> 
 <summary><h3> 🔍 Coding Challenges </h3></summary>
   
-🧩 Check out my LeetCode solutions [here](https://example.com/your-leetcode-profile](https://leetcode.com/shuabro888/))
+🧩 Check out my LeetCode solutions [here](https://leetcode.com/shuabro888/)
 </details>
 
 <details> 
