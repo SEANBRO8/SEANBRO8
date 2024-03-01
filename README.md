@@ -77,14 +77,21 @@
 </details>
 
 <details>
-<summary><h3>🧑🏻‍💻 GEZI's Coding Journey</h3></summary>
-  
-My adventure into the world of coding began in early 2022, a leap from my established career as a professional accountant at a renowned accounting firm. Throughout my years in accounting, I encountered a significant challenge: the software tools available to accountants were far from user-friendly, leading to inefficiency and frustration. This realization sparked a desire within me to delve into software engineering, with the aim of revolutionizing the accounting field through technology.
+ <summary><h3>👨‍💻 GEZI's Coding Journey</h3>
+ </summary>
+ <p align="justify">
+    My adventure into the world of coding began in early 2022, a leap from my established career as a professional accountant at a renowned accounting firm. Throughout my years in accounting, I encountered a significant challenge: the software tools available to accountants were far from user-friendly, leading to inefficiency and frustration. This realization sparked a desire within me to delve into software engineering, with the aim of revolutionizing the accounting field through technology.
+</p>
 
-I embarked on this journey by teaching myself programming languages such as Java and C++. After about six months of dedicated self-study, an opportunity arose that would change my trajectory: I secured an internship as a Software Engineer at XPeng, a leading electric vehicle company, in their Autonomous Driving Center. This role marked my first foray into engineering, and it wasn't just about writing code; it was about contributing to advancements that could enhance lives and propel humanity forward.
+ <p align="justify">
+    I embarked on this journey by teaching myself programming languages such as Java and C++. After about six months of dedicated self-study, an opportunity arose that would change my trajectory: I secured an internship as a Software Engineer at XPeng, a leading electric vehicle company, in their Autonomous Driving Center. This role marked my first foray into engineering, and it wasn't just about writing code; it was about contributing to advancements that could enhance lives and propel humanity forward.
+</p>
 
-During my internship, I excelled in my responsibilities, finding that each line of code was not just a task completed, but a step towards a more efficient and innovative future. This experience reinforced my belief in the power of technology and its potential to transform industries.
+ <p align="justify">
+  During my internship, I excelled in my responsibilities, finding that each line of code was not just a task completed, but a step towards a more efficient and innovative future. This experience reinforced my belief in the power of technology and its potential to transform industries.
+</p>
 
-Looking ahead, I am committed to marrying my expertise in accounting with my newfound passion for software engineering. My goal is to create solutions that bring convenience and innovation to the financial domain, staying true to my original vision of improving the work lives of accountants through better software. This journey is just the beginning, and I am excited to see where this path of blending finance and technology will lead me.
-
+ <p align="justify">
+  Looking ahead, I am committed to marrying my expertise in accounting with my newfound passion for software engineering. My goal is to create solutions that bring convenience and innovation to the financial domain, staying true to my original vision of improving the work lives of accountants through better software. This journey is just the beginning, and I am excited to see where this path of blending finance and technology will lead me.
+</p>
 </details>
