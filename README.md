@@ -63,11 +63,6 @@
 </div>
 
 <br/>
-<details> 
-<summary><h3> 🔍 Coding Challenges </h3></summary>
-  
-🧩 Check out my LeetCode solutions [here](https://leetcode.com/shuabro888/)
-</details>
 
 <details> 
 <summary><h3>📊 Stats </h3></summary>
