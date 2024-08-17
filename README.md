@@ -9,7 +9,7 @@
 
 🧑🏻‍💻 Over 2 years programming experience
 
-💼 Actively seeking for SDE internship during 2024 Summer / Fall, and 2025 Spring
+💼 Actively seeking for SDE internship during 2025 Spring / Summer
 
 📮 Email: seandengswe@outlook.com
 
