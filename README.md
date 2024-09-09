@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Developer/CPA/ACCA)`**
 
-🌱 Growing Full Stack Software Engineer
+🌱 Growing Back End Software Engineer
 
 📌 Software Engineer intern 🚗 @XPeng
 
