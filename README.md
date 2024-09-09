@@ -11,7 +11,7 @@
 
 💼 Actively seeking for SDE internship during 2025 Spring / Summer
 
-📮 Email: seandengswe@outlook.com
+📮 Email: seandengswe@gmail.com
 
 ---
 
