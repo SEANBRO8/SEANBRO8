@@ -17,17 +17,6 @@
 
 ## 💻 Languages & 🛠 Tools Section
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <span>🌐 Frontend: </span>
-  <img alt="JavaScript" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img alt="TypeScript" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="HTML5" width="40px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img alt="CSS3" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img alt="React" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img alt="Vue" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
-  <img alt="BootStrap" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <span>⚙️ Backend: </span>
   <img alt="Java" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img alt="C++" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -60,6 +49,10 @@
     <span>📱 Mobile App: </span>
     <img alt="Swift" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
     <img alt="Xcode" width="50px" style="padding-left:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+</div>
+
+<div style="display: flex; align-items: center;">
+    <span>🤖 AI: </span>
 </div>
 
 <br/>
