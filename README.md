@@ -9,9 +9,9 @@
 
 🧑🏻‍💻 Over 2 years programming experience
 
-💼 Actively seeking for 2026 SDE NG
+💼 Actively seeking for 2026 SDE New Grad
 
-📮 Email: seandengswe@gmail.com
+📮 Email: seandengswe888@gmail.com
 
 ---
 
