@@ -5,9 +5,9 @@
 
 🌱 Growing Back End & AI Software Engineer
 
-📌 Software Engineer intern 🚗 @XPeng
+📌 Software Engineer intern 🚗 @XPeng & IsperLab
 
-🧑🏻‍💻 Over 2 years programming experience
+🧑🏻‍💻 Over 3 years programming experience
 
 💼 Actively seeking for 2026 SDE New Grad
 
